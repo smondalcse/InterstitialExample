@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 16 15:12:13 BDT 2019
+0.baseType=DIRECTORY
+0.base=F\:\\Sanat Documents\\Android Project\\Practise\\AdMov All Project\\InterstitialExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
